@@ -1,1 +1,1 @@
-# tyscriptDiagramaclasses exercise.
+# tyscriptDiagramaclasses exercise
